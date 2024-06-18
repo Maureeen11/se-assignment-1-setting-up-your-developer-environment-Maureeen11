@@ -158,6 +158,7 @@ The development landscape constantly evolves. Staying updated with new tools, te
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
+
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
